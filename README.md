@@ -4,9 +4,9 @@
 - 🔭 My lastest project [Booking Flight Agent](https://github.com/GhPhan-hao05/BookingFlight-Agent)
 
 - 👯 What i am curently doing [Recruitment Agent](https://github.com/GhPhan-hao05/Recruitment-Agent)
-  [Chatbot for student conseiling with one-shotRAG](https://github.com/GhPhan-hao05/One-shotRAG-FLASK)
+- 👯 What i am curently doing [Chatbot for student conseiling with one-shotRAG](https://github.com/GhPhan-hao05/One-shotRAG-FLASK)
 
-  - 🤝 I’m looking for help in GPU for further [SFT LLM for Bank Conversation](https://github.com/GhPhan-hao05/Sumarize-Dialogue-GRPO)
+- 🤝 I’m looking for help in GPU for further [SFT LLM for Bank Conversation](https://github.com/GhPhan-hao05/Sumarize-Dialogue-GRPO)
   
 - 🌱 Some online course i have appied **Advance LLM agent by Berkeley; Cs224n NLP Course by Stanford; RAG, Reinforcement Fine-Tuning by deeplearning.ai**
 
